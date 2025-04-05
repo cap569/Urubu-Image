@@ -1,2 +1,0 @@
-# Urubu-Image
-Urubu Imagem
